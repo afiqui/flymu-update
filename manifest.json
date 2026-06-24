@@ -1,6 +1,6 @@
 {
-  "version": 1782344789,
-  "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
+  "version": 1782344855,
+  "launcher": { "version": 2, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 314, "sha256": "88234b83f4254ed70b6680d3bd8c56ae8bbf289cbf7972d9dd9d12a1f43811dd" },
     { "path": "Data/ACuoi.pack", "size": 27418366, "sha256": "20d7cda9b8e047dd49ad6d57dfeb376ddddfab4f4f143af4f57d852ae1f526f8" },
