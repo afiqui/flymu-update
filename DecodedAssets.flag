@@ -1,0 +1,1 @@
+This client's images are decoded + renamed to plain .jpg/.tga (no .OZJ/.OZT). The client reads g_bDecodedImages from this sentinel's presence.
