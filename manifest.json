@@ -1,6 +1,6 @@
 {
-  "version": 1782342233,
-  "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 0, "sha256": "" },
+  "version": 1782343747,
+  "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "a9fcab1621c3f77ffe418479abc4e6c801d99117934dbaacee91e39304f572e3" },
   "files": [
     { "path": "Config.ini", "size": 314, "sha256": "88234b83f4254ed70b6680d3bd8c56ae8bbf289cbf7972d9dd9d12a1f43811dd" },
     { "path": "Data/ACuoi.pack", "size": 27418366, "sha256": "20d7cda9b8e047dd49ad6d57dfeb376ddddfab4f4f143af4f57d852ae1f526f8" },
@@ -118,6 +118,7 @@
     { "path": "Data/World9.pack", "size": 2877353, "sha256": "ddd61fedbfd74b60cf7c12b40621173fe5e9ebf33407ef2faa799b1b45fdfa33" },
     { "path": "Data/_root.pack", "size": 3119, "sha256": "7d82e7b1cc276d3308e78c808bd3bcd2a6908f09183fefe2cfc758f38ac66808" },
     { "path": "DecodedAssets.flag", "size": 144, "sha256": "6f170befb5e741c96cf88ccb2ec262097edf41f91dd592cee0b48c62bcdcb0a2" },
+    { "path": "FlyLauncher.exe", "size": 915456, "sha256": "a9fcab1621c3f77ffe418479abc4e6c801d99117934dbaacee91e39304f572e3" },
     { "path": "GraphicsFX.ini", "size": 2073, "sha256": "563aa4eaa59027c27993807abc35e103685368a27a8c304dd9e6b3feee60eee5" },
     { "path": "Main.exe", "size": 11155968, "sha256": "fbfd39e5ed2c974314063b506fdb7f510d2c33a58c3a8678a1190f30a486b5c4" },
     { "path": "Noesis.dll", "size": 5229576, "sha256": "35f6ac51d85ba6f8d7f69cff02799c9d21889a1924b38e16af1b4875ce02de0c" },
