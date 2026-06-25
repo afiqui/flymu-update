@@ -1,5 +1,5 @@
 {
-  "version": 1782404340,
+  "version": 1782405232,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 359, "sha256": "06cc6b07fdb4ba43ed64d2a1d3fd4d09e87c9e10a64438fe4217ab84cd058aca" },
@@ -120,7 +120,7 @@
     { "path": "DecodedAssets.flag", "size": 144, "sha256": "6f170befb5e741c96cf88ccb2ec262097edf41f91dd592cee0b48c62bcdcb0a2" },
     { "path": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
     { "path": "GraphicsFX.ini", "size": 2073, "sha256": "563aa4eaa59027c27993807abc35e103685368a27a8c304dd9e6b3feee60eee5" },
-    { "path": "Main.exe", "size": 11164672, "sha256": "3efce4ba6c7152452adeb1b09dea892791bc0b4a08d95ba41ca6b5a3008c2cd8" },
+    { "path": "Main.exe", "size": 11168256, "sha256": "88dd4bc6035c2adb75c39d4d8cc76f40e2fa221c7d78d880e1f3fa5cb11d91b7" },
     { "path": "MuVoice.exe", "size": 1005056, "sha256": "b6886be3abb457ddfd0fff4a0becd7e9435ef4e62efa5be476478a5840500a41" },
     { "path": "Noesis.dll", "size": 5229576, "sha256": "35f6ac51d85ba6f8d7f69cff02799c9d21889a1924b38e16af1b4875ce02de0c" },
     { "path": "OpenGL3245.dll", "size": 173568, "sha256": "973f1be23398f03f61b2072a340e737395c3ebd1a80d8106332c6c4d6cb61d31" },
