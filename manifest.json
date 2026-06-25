@@ -1,8 +1,8 @@
 {
-  "version": 1782344855,
-  "launcher": { "version": 2, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
+  "version": 1782347700,
+  "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
-    { "path": "Config.ini", "size": 314, "sha256": "88234b83f4254ed70b6680d3bd8c56ae8bbf289cbf7972d9dd9d12a1f43811dd" },
+    { "path": "Config.ini", "size": 314, "sha256": "e5c2381412864ceec91b82f01b84491037727ccfb25ed92b5445e8425a97f791" },
     { "path": "Data/ACuoi.pack", "size": 27418366, "sha256": "20d7cda9b8e047dd49ad6d57dfeb376ddddfab4f4f143af4f57d852ae1f526f8" },
     { "path": "Data/Custom.pack", "size": 53122194, "sha256": "cd062d7e2a080cce5d8e812523e581c99129d51e2d56699907801b31068e821c" },
     { "path": "Data/Effect.pack", "size": 5571991, "sha256": "38795d7d9429e38560bb029790ea1103b9aa3912b781a3874fcbf9e6d3ee806f" },
@@ -120,7 +120,7 @@
     { "path": "DecodedAssets.flag", "size": 144, "sha256": "6f170befb5e741c96cf88ccb2ec262097edf41f91dd592cee0b48c62bcdcb0a2" },
     { "path": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
     { "path": "GraphicsFX.ini", "size": 2073, "sha256": "563aa4eaa59027c27993807abc35e103685368a27a8c304dd9e6b3feee60eee5" },
-    { "path": "Main.exe", "size": 11155968, "sha256": "fbfd39e5ed2c974314063b506fdb7f510d2c33a58c3a8678a1190f30a486b5c4" },
+    { "path": "Main.exe", "size": 11161088, "sha256": "1ab3fb9da1ad2da47998feebcd15bbe9e192f908368625862333277ae7a191a3" },
     { "path": "Noesis.dll", "size": 5229576, "sha256": "35f6ac51d85ba6f8d7f69cff02799c9d21889a1924b38e16af1b4875ce02de0c" },
     { "path": "OpenGL3245.dll", "size": 173568, "sha256": "973f1be23398f03f61b2072a340e737395c3ebd1a80d8106332c6c4d6cb61d31" },
     { "path": "QeffectsGL.ini", "size": 364, "sha256": "8a359c9a92cfaa49582565f056416185d70d55defc457bf486ecb7532df1c597" },
