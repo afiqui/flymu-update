@@ -1,0 +1,66 @@
+{
+  "version": 1782415048,
+  "launcher": {
+    "version": 2,
+    "file": "FlyLauncher",
+    "size": 110808,
+    "sha256": "f254eeccff348db86c351f41699f85a8c8f0649c78394a7bf4d6b5d336c1a467"
+  },
+  "files": [
+    {
+      "path": "Noesis.dylib",
+      "size": 12184256,
+      "sha256": "04abe97e813d2ce332ddba6f822c8f1044cca328517a414bdb84ed21fcfa8f3c"
+    },
+    {
+      "path": "libEGL.dylib",
+      "size": 73024,
+      "sha256": "7721d131463ce9808d64eb57a69c1ccfbdd1c5579ce97d86501108f87e1a6a82"
+    },
+    {
+      "path": "libGLESv2.dylib",
+      "size": 5858016,
+      "sha256": "b6c9495b561066282f74228b3f7dd0fdd4be0b78ef02fa83cc43a6fd13246d1b"
+    },
+    {
+      "path": "libc++_chrome.dylib",
+      "size": 1376400,
+      "sha256": "cb6d2b2ca6e62629c0920b610a5d905e2c0f974fc9e8ce59ed5ab7bc3f630a43"
+    },
+    {
+      "path": "libchrome_zlib.dylib",
+      "size": 148720,
+      "sha256": "e0e3f876744dfb4346f796e74974aba8219ecf6d312623797042dd47ad5026c9"
+    },
+    {
+      "path": "libdawn_native.dylib",
+      "size": 8563856,
+      "sha256": "d9a6841354413ddaf9afc5455ad252e31f0b3a46d44892fea1601baaa85ccc7b"
+    },
+    {
+      "path": "libdawn_platform.dylib",
+      "size": 49472,
+      "sha256": "d9d0541ea1baf43c47f99b626ba58ea5aec77810e952560f7c10d847cd2f9d3f"
+    },
+    {
+      "path": "libdawn_proc.dylib",
+      "size": 135824,
+      "sha256": "bb978dff07dffc853f3e78bb6def000e3a2b8183c9e39d5ab11278231cd2093d"
+    },
+    {
+      "path": "libglfw.3.dylib",
+      "size": 264912,
+      "sha256": "debba85f031f27675833d3f8acc7985d9b07d04f157203845367467c465f73bd"
+    },
+    {
+      "path": "libthird_party_abseil-cpp_absl.dylib",
+      "size": 1078208,
+      "sha256": "77e8c1d1a0889808ccb7dee065926f2854c16bd075ff4de1334a28ba1ad37446"
+    },
+    {
+      "path": "mu_client",
+      "size": 7845776,
+      "sha256": "70d835fdd8c21c539e1aa92c66cfb35aacb40e71f4f494d2deddc3c980a31c21"
+    }
+  ]
+}
