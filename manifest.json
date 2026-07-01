@@ -1,5 +1,5 @@
 {
-  "version": 1782927551,
+  "version": 1782927719,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 531, "sha256": "38bccb27efae771a431dd9703033fa5ae719b566d5b6cf5a5be940f5e9fcf1e5" },
@@ -14,7 +14,6 @@
     { "path": "Data/Launcher.pack", "size": 1157635, "sha256": "5fb5ac7bcc014910853f631b4eb47860c8e3bc1349372583d78a53eaf05c945d" },
     { "path": "Data/Local.pack", "size": 743861, "sha256": "909292360f25662398b49b90b11e0011f4bdf4f17c529a344fe09a85b4522ea5" },
     { "path": "Data/Logo.pack", "size": 7443920, "sha256": "35b54f2e3210f297a874cf8790a46866b52575fe7b4ae71800e5393c9fd8aa08" },
-    { "path": "Data/Macro.txt", "size": 20, "sha256": "7dcf122b3c1030b4c6ce56e9c6d37d55fbec08f1c93d5ab6e4de5b6486e0d068" },
     { "path": "Data/Monster.pack", "size": 204426457, "sha256": "f811183ced266ebbae42d46a75a4938ec2ebee74061a0dda199503bec833cc8b", "parts": [{ "name": "Data/Monster.pack.000", "size": 99614720, "sha256": "b9b31b42e62ad6dca0c6845b81f46e9975dac54ebbc48bf8d331b2601e1d0d55" }, { "name": "Data/Monster.pack.001", "size": 99614720, "sha256": "b5a9ba69fcd64c20cd9dad372832d0172fb3efcbb7ccdef28304bf0b4c3e0cd3" }, { "name": "Data/Monster.pack.002", "size": 5197017, "sha256": "fc5964a00606f7ea80331590d90b0d70cf0afc9553d1a5bdbb5e6da028bfcdfe" }] },
     { "path": "Data/Music.pack", "size": 31639062, "sha256": "a161070df21f374afadee67be7eea2304ee57f485f80bcc0656423478287997b" },
     { "path": "Data/NPC.pack", "size": 57569026, "sha256": "e76d8efffae7a0f284428a75dc49fdee0cb4226cf434d1b7f7a01b5b872f3933" },
@@ -132,7 +131,6 @@
     { "path": "Data/World94.pack", "size": 740465, "sha256": "0f2bcf6e5598e6788ae1a2ffe31fee3854facd23c49aa7d5ba888b380a917de0" },
     { "path": "Data/World95.pack", "size": 741727, "sha256": "80588758d5aa6e5cc79474f100a60dfdd418ec95e83a8065f01e54ad9c2da8f8" },
     { "path": "Data/_root.pack", "size": 3221, "sha256": "447fad317f746c6f17f18c1f9490e9bce45cc926e1b3b959fae976824bf6d364" },
-    { "path": "Data/ui_layout.ini", "size": 96, "sha256": "2d245e57aacf73e9f272c2aba7f525976522dec5d3923ed67a62ce76e61ac637" },
     { "path": "DecodedAssets.flag", "size": 144, "sha256": "6f170befb5e741c96cf88ccb2ec262097edf41f91dd592cee0b48c62bcdcb0a2" },
     { "path": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
     { "path": "GraphicsFX.ini", "size": 4077, "sha256": "07a40f0384aee50fefaa873a69db6d87f70934b9bd999e87654f2abab61366f1" },
