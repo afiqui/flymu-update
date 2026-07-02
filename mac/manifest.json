@@ -1,5 +1,5 @@
 {
-  "version": 1782415048,
+  "version": 1783029563,
   "launcher": {
     "version": 2,
     "file": "FlyLauncher",
@@ -59,8 +59,8 @@
     },
     {
       "path": "mu_client",
-      "size": 7845776,
-      "sha256": "70d835fdd8c21c539e1aa92c66cfb35aacb40e71f4f494d2deddc3c980a31c21"
+      "size": 11459728,
+      "sha256": "90f598dd3f07d0a88733e18449a3027563d80b9bc109b449a0b1e1af150f9921"
     }
   ]
 }
