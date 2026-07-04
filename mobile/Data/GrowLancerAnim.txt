@@ -22,12 +22,45 @@
 # testa; depois 271 -> 285, salva, testa...) ate achar a animacao certa.
 # ============================================================================
 
-271 284
-272 285
-273 286
-274 287
-275 288
-276 289
-277 290
-278 291
-279 292
+271 61   # Spin Step     (AoE)
+272 285  # Circle Shield (buff)
+273 296  # Obsidian      (buff)
+274 61   # Magic Pin     (alvo)
+275 288  # Clash         (alvo)
+276 63   # Harsh Strike  (alvo)
+277 61   # Shining Peak  (AoE)
+278 291  # Wrath         (buff)
+279 65   # Breche        (AoE)
+
+# ============================================================================
+# REFERENCIA: animacoes NATIVAS do player.bmd (0..283) uteis para teste
+# indices conferidos no enum PLAYER_* de _enum.h. (Obs.: os comentarios (142)/
+# (150) DENTRO do _enum.h estao desatualizados +1 -> valem os numeros abaixo.)
+# Para testar: troque o actionIndex de uma skill GL (271..279) por um destes,
+# salve, e re-caste a skill (recarga ao vivo, sem rebuild).
+# ----------------------------------------------------------------------------
+# ESPADA (Swords)
+#    38  ATTACK_FIST                 43  ATTACK_TWO_HAND_SWORD1
+#    39  ATTACK_SWORD_RIGHT1         44  ATTACK_TWO_HAND_SWORD2
+#    40  ATTACK_SWORD_RIGHT2         45  ATTACK_TWO_HAND_SWORD3
+#    41  ATTACK_SWORD_LEFT1         145  ATTACK_TWO_HAND_SWORD_TWO
+#    42  ATTACK_SWORD_LEFT2
+#    60  ATTACK_SKILL_SWORD1   61 _SWORD2   62 _SWORD3   63 _SWORD4   64 _SWORD5
+#
+# LANCA / FOICE  (perfil mais proximo da Grow Lancer)
+#    46  ATTACK_SPEAR1               56  ATTACK_RIDE_SPEAR
+#    47  ATTACK_SCYTHE1              57  ATTACK_RIDE_SCYTHE
+#    48  ATTACK_SCYTHE2
+#    49  ATTACK_SCYTHE3              70  ATTACK_SKILL_SPEAR
+#
+# BLADE KNIGHT (skills de DK)
+#    65  ATTACK_SKILL_WHEEL          (Twisting Slash)
+#    66  ATTACK_SKILL_FURY_STRIKE    (Fury Strike / Impale)
+#    70  ATTACK_SKILL_SPEAR          (skill de lanca)
+#    71  ATTACK_ONETOONE             (One-to-One)
+#    80  ATTACK_STRIKE               (Death Stab / estocada)
+#   136  ATTACK_ONE_FLASH            (One Flash)
+#   137  ATTACK_RUSH                 (Rush / investida)
+#   138  ATTACK_DEATH_CANNON         (Magic Sword flash)
+#    72  SKILL_HELL_BEGIN       73  SKILL_HELL_START
+# ============================================================================
