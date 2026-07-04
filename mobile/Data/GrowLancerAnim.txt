@@ -1,0 +1,33 @@
+# ============================================================================
+# Grow Lancer - mapa de ANIMACAO por skill (player.bmd)
+# ----------------------------------------------------------------------------
+# As animacoes da Grow Lancer da Season 17 foram transplantadas para o
+# player.bmd nos indices de action 284..335 (mesmo esqueleto de 60 ossos).
+#
+# Formato:   <skillId>  <actionIndex>
+#   skillId     = id da skill GL (271..279)
+#   actionIndex = indice da action no player.bmd (use 284..335 = anims da S17;
+#                 ou qualquer action existente 0..283 do 5.2 se preferir)
+#
+# >>> RECARREGA AO VIVO <<< : edite o numero, salve, e re-caste a skill no jogo.
+# Nao precisa reiniciar o client nem rebuildar. Assim voce testa skill por skill
+# qual action fica melhor pra cada uma.
+#
+# Skills:
+#   271 Spin Step      (AoE)      274 Magic Pin   (alvo)     277 Shining Peak (AoE)
+#   272 Circle Shield  (buff)     275 Clash       (alvo)     278 Wrath        (buff)
+#   273 Obsidian       (buff)     276 Harsh Strike(alvo)     279 Breche       (AoE)
+#
+# Dica: comece variando o actionIndex de UMA skill por vez (ex.: 271 -> 284, salva,
+# testa; depois 271 -> 285, salva, testa...) ate achar a animacao certa.
+# ============================================================================
+
+271 284
+272 285
+273 286
+274 287
+275 288
+276 289
+277 290
+278 291
+279 292
