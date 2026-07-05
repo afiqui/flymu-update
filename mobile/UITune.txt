@@ -1,4 +1,0 @@
-wheel_axis 3
-wheel_selfspin 30
-wheel_sparks 8
-wheel_spin 18
