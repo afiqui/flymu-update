@@ -1,9 +1,9 @@
 {
-  "version": 1783294376,
+  "version": 1783371171,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 0, "sha256": "" },
   "files": [
     { "path": "Config.ini", "size": 511, "sha256": "73ff1f8d0a36cd8f851c692f714873ef42b752c62fd5c2455169c5a6433fb849" },
-    { "path": "Data/ACuoi.pack", "size": 27621111, "sha256": "b70fe59003f6fca68e2c64f709a8ee5389986976cd667739988ecb498d02c429" },
+    { "path": "Data/ACuoi.pack", "size": 27622229, "sha256": "dbd4fe3ac40e25a17929e965eacce8a00394e61c4e01a1a38a88dcd7a2c99acc" },
     { "path": "Data/Custom.pack", "size": 298425062, "sha256": "aee1687c824556a0ce3c22c8877bc5fe39cde6e4efca984364b1bc481bd1addc", "parts": [{ "name": "Data/Custom.pack.000", "size": 99614720, "sha256": "76ad211917212819ceb5dffdd8a7b327c452e8c33a1b7302fd112b3a76dc0238" }, { "name": "Data/Custom.pack.001", "size": 99614720, "sha256": "a71e18fb5bfe4ac1a50a9b1c8ee26e412e2511cf4cbcf12d1cce10af6c02caca" }, { "name": "Data/Custom.pack.002", "size": 99195622, "sha256": "1107d295db97ce7aaec3c1fab71431d1a9108bf0337dd5b836ae5f7ac6922a4f" }] },
     { "path": "Data/Dec2.dat", "size": 54, "sha256": "d19e950c44e5648113269cb35d74c25f1c7ca27399e62da95fa127d4d714325e" },
     { "path": "Data/Effect.pack", "size": 6370610, "sha256": "252e8616fb01ff99e89c43acccb607cca399b134c4aa6c550b4b79c858994392" },
@@ -244,10 +244,10 @@
     { "path": "Data/ScriptCase.pack", "size": 184, "sha256": "c3f20e01a2978e03a4bfffc1111a490196e75473d2b2573decb13824c48e5059" },
     { "path": "Data/Skill.pack", "size": 10120066, "sha256": "58cfb042198fdf234d4e93bd9e4b49c625066ae7e34d35d1bc318326d40215d3" },
     { "path": "Data/Sound.pack", "size": 181376292, "sha256": "5232381532cb4c1f1f90dcac08c2bea2e7cd240fdac08341ad1f179def8daa30", "parts": [{ "name": "Data/Sound.pack.000", "size": 99614720, "sha256": "1f8dc4e5ec524b0fbaa438f38d8bb5058f8b7a2efdce7f79b05652ddd42ea7e8" }, { "name": "Data/Sound.pack.001", "size": 81761572, "sha256": "25eeec0d3266c01e1c127090cba6e43bc45e0c0028337970355232d11d29d45c" }] },
-    { "path": "Data/UI.pack", "size": 504294967, "sha256": "9d8eaf10b5058223b1a73e298d7d17ecb8d9544596fab324df719b649689d1fe", "parts": [{ "name": "Data/UI.pack.000", "size": 99614720, "sha256": "d87804f5261e46cc7f9a4d95ceb1b12df65cc80a519558975df7e75ed36e83eb" }, { "name": "Data/UI.pack.001", "size": 99614720, "sha256": "e1eab3dc74c970379e9036d4a6da94217a0216a67a19b97d9798259664b3cba7" }, { "name": "Data/UI.pack.002", "size": 99614720, "sha256": "d5f2e560ff0d13f2655c1455ce3b03f859e2c9fc6ee25fd0fa2e703d5eff922a" }, { "name": "Data/UI.pack.003", "size": 99614720, "sha256": "29c773fab20b68889b6275ca35a6cc19456ab410d21f9cd73261820c289f3c6c" }, { "name": "Data/UI.pack.004", "size": 99614720, "sha256": "c913198aff744c76de1923a68b7437ae8c423895230e8d038cd5df92e9250511" }, { "name": "Data/UI.pack.005", "size": 6221367, "sha256": "a09ea1eb37706510395da88c867bcd6abf99729633bfb5ca15d3be1a6ac95861" }] },
+    { "path": "Data/UI.pack", "size": 504444781, "sha256": "0f48e3970abb6f81ab54b08e664e96afbe84b08b1144d4e4fc2649c145aeec39", "parts": [{ "name": "Data/UI.pack.000", "size": 99614720, "sha256": "58958a0b006672e8aff3b0b2854c304a5a15fb8b768fd3d25db656d46eb28e5a" }, { "name": "Data/UI.pack.001", "size": 99614720, "sha256": "b410e13086e8ce652080857aa9889e03419fea01cbcead2500c85203345debd9" }, { "name": "Data/UI.pack.002", "size": 99614720, "sha256": "f1d27205f6e53233321a1fc5827e6986492243d166aaa7c6e1f5e8de67d16964" }, { "name": "Data/UI.pack.003", "size": 99614720, "sha256": "f17a8ac07cd8139ee141a2e8658c8649782232965a62689c3739612713219e10" }, { "name": "Data/UI.pack.004", "size": 99614720, "sha256": "3cbcd8c5da963c73a11839106e848e08fc395d04ab19d48d3f2226be8166ba48" }, { "name": "Data/UI.pack.005", "size": 6371181, "sha256": "483e05e94d299adf5cd5667db9adb96930fdd32a33bdf3d1e4e4726742e96ba4" }] },
     { "path": "Data/World1.pack", "size": 10603642, "sha256": "bf2a7709bf769bf62c00fc623bec60093d3958aca28315d7bf3a37c0f03b9088" },
     { "path": "Data/World10.pack", "size": 583314, "sha256": "9a70a00cfa5087826163eda9b0e237d33b0aaa134d843c6636a1a0eb778f9761" },
-    { "path": "Data/World100.pack", "size": 11664284, "sha256": "e9c4b7d035edb2617aeddf5dee7f2c8185780cc3bb8fc858a69e4b3436259f60" },
+    { "path": "Data/World100.pack", "size": 11687695, "sha256": "a6ed5162b3bbda9b6dafddd58d16a0f5a05442ea410378dda2ece6d0a79e5e58" },
     { "path": "Data/World101.pack", "size": 6629137, "sha256": "1d993925321a0ccd0d28bb2d54d60d8a24bfdbda397c94a306ecbd7cd09f43f2" },
     { "path": "Data/World102.pack", "size": 10037130, "sha256": "31c91a4e3927700b65891c1bea46041bed18de25a07e11714122059e5f7fe891" },
     { "path": "Data/World103.pack", "size": 7148820, "sha256": "70f2a93e7f60cc3860cc1dc1067582ea29131da7e0ac492c6204b73b54d96d3d" },
@@ -316,8 +316,8 @@
     { "path": "Data/World95.pack", "size": 997848, "sha256": "88a7d2911e73d2b9e63c26599196b1549a673b11b38f5c3e6aad3c5046b7ba78" },
     { "path": "Data/gate.bmd", "size": 7168, "sha256": "3d4b01f848be9542a2d78aec7483f5daa3c9fde8dc6a1b70db9c4b7d82ff6a04" },
     { "path": "Data/ui_layout.ini", "size": 410, "sha256": "965751de390e3aaed6e58acde864820afa282e9fb745d085eb614a19a87a672b" },
-    { "path": "GraphicsFX.ini", "size": 12006, "sha256": "3891117dcb54bcd15f3c881bd18a9edca11b910f178fd0c530f113938eea929a" },
-    { "path": "MapEditor.ini", "size": 24, "sha256": "796e86a2763878377c2cbba65c0cefa736d23831d5993727a012e5f84b65d7ed" },
+    { "path": "GraphicsFX.ini", "size": 12528, "sha256": "87d297f69aaf3c959c2c8832383f2ae098b2ea44aa1aada6632b6b88c92eb0ef" },
+    { "path": "MapEditor.ini", "size": 26, "sha256": "77493ef34fc20777cee0f16f26972e2f884ba5efd0fd71a527474697351c3971" },
     { "path": "QeffectsGL.ini", "size": 364, "sha256": "8a359c9a92cfaa49582565f056416185d70d55defc457bf486ecb7532df1c597" },
     { "path": "UITune.txt", "size": 60, "sha256": "d9d951f42a6615c812e308ef314dccf1964fd22217e2c643e1f83bab85b505dc" }
   ]
