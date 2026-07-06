@@ -1,9 +1,9 @@
 {
-  "version": 1783366486,
+  "version": 1783366816,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 511, "sha256": "73ff1f8d0a36cd8f851c692f714873ef42b752c62fd5c2455169c5a6433fb849" },
-    { "path": "Data/ACuoi.pack", "size": 78919773, "sha256": "737c510c6ecb47214e254a5cb8e181e1b13bfcc2150c9dbcd42944fb78f32901" },
+    { "path": "Data/ACuoi.pack", "size": 78919772, "sha256": "bdf847895f8239d24503a984651c8b3e376043966e1017926c2e9973a1709c33" },
     { "path": "Data/Custom.pack", "size": 343671940, "sha256": "7460d49adc1f8676eb587deae42f0474dfe8491a255c39b1429efd5b4b683db5", "parts": [{ "name": "Data/Custom.pack.000", "size": 99614720, "sha256": "8c317c67bf926c328ea88b5ec39e30b381b3a115b6f061fb3d3dd0de2ccdfd3b" }, { "name": "Data/Custom.pack.001", "size": 99614720, "sha256": "f0243650a30ec647d88453816c0888a9218a58fdd7826c60506dbcd7da3c6029" }, { "name": "Data/Custom.pack.002", "size": 99614720, "sha256": "13733a733884d2717e36775188d4946e910776d03d57fd35f490ff4f42a6e5c0" }, { "name": "Data/Custom.pack.003", "size": 44827780, "sha256": "02a351ee32c82c9dea87e9c82a36f5414f56135a7a6293d431eebec91373f684" }] },
     { "path": "Data/Effect.pack", "size": 20626157, "sha256": "3c43864add9ce6eba2444a9d90a7938af7f4bf66be461486edb7eb39b2d44b5f" },
     { "path": "Data/Environment.pack", "size": 25907, "sha256": "be3174aaf6d4608e9088c963b9b19d9cbc5189ccc9af26e40e5d2658f796137c" },
