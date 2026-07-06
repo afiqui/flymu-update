@@ -1,5 +1,5 @@
 {
-  "version": 1783359507,
+  "version": 1783361232,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 511, "sha256": "73ff1f8d0a36cd8f851c692f714873ef42b752c62fd5c2455169c5a6433fb849" },
@@ -84,7 +84,7 @@
     { "path": "Data/ScriptCase.pack", "size": 184, "sha256": "d1cbd2040b16efa3150bf79417eb0e7b7d72b3ed92f5a69c29ea5c5a42ac053f" },
     { "path": "Data/Skill.pack", "size": 26871877, "sha256": "7fc6315319bcdb51aaea7167f781a7b39a863bf853f0a75953c66ca87c50bc1b" },
     { "path": "Data/Sound.pack", "size": 181376292, "sha256": "1125f8e414c38de383cebe9c0c855542e7fe0770d56bbe6b010d233a3dd6d215", "parts": [{ "name": "Data/Sound.pack.000", "size": 99614720, "sha256": "27f6343bdcbf55e203ca111be3da10d3ee42860edc39c4f1f31621005b21e957" }, { "name": "Data/Sound.pack.001", "size": 81761572, "sha256": "34256c42ad16e0385540d50404a6a543f04ad6a07149ccc7d00a5636179ff4e7" }] },
-    { "path": "Data/UI.pack", "size": 504443707, "sha256": "7d9e8c816ef663f0480ce75126f14a210156d71d16a1bd6d2e5d5186be298ed8", "parts": [{ "name": "Data/UI.pack.000", "size": 99614720, "sha256": "99f8f062e39d9f32d5f2db3dfc6a7fc545c344dc796906e75a6df00912846b34" }, { "name": "Data/UI.pack.001", "size": 99614720, "sha256": "34a3d064e5ad884b728053585a0dbdcefb241487d67b35dbcce13566c9762226" }, { "name": "Data/UI.pack.002", "size": 99614720, "sha256": "aa61a65e1d64b7a2c2676500979e2236dcfa0454e3ae7071c882bb6a13bbb7f2" }, { "name": "Data/UI.pack.003", "size": 99614720, "sha256": "072a0d950c06a022fca5f4c8c0150c06c88c773dc393b62d8b041458070d1e8a" }, { "name": "Data/UI.pack.004", "size": 99614720, "sha256": "89cc01b24e420e8757a7ed5e6531a408bbdfa3d43e3609683ab7081b0caebe58" }, { "name": "Data/UI.pack.005", "size": 6370107, "sha256": "a79da00e58f9ae8fa124caecd891ab2e82c89f894b9ddf3163f28227411c6a51" }] },
+    { "path": "Data/UI.pack", "size": 504443995, "sha256": "c48dbc430fe6514ae70d21e827f8b6a4ada968cf173c90a45b43f5c3ff62cbd7", "parts": [{ "name": "Data/UI.pack.000", "size": 99614720, "sha256": "b5c1835f7d40f03e09e895d99eefb0ba4f2f45ad28df4b23a733e9655e97f7b9" }, { "name": "Data/UI.pack.001", "size": 99614720, "sha256": "e7b69d2fd22ce2e3b89312ec3e527379acb8926bbaa23312318ae27d31247d53" }, { "name": "Data/UI.pack.002", "size": 99614720, "sha256": "fd06a6fe6bd60bfe3f90e9cecd20047e98d4914623acfbb1f0fcf9099c8e6db7" }, { "name": "Data/UI.pack.003", "size": 99614720, "sha256": "d1579a7e81e08903b43e6967f7f4c0dcf29d50abd6b9d6307b6155d045e451f5" }, { "name": "Data/UI.pack.004", "size": 99614720, "sha256": "2eb6c26a661ecd99b89258b0d3f20084e6f9dffc025800d737d7e636fc414240" }, { "name": "Data/UI.pack.005", "size": 6370395, "sha256": "965237cf50845dcaa60b8e39ac06bb439ce77eaa47df7245b4e7ae597465a4b6" }] },
     { "path": "Data/World1.pack", "size": 41119009, "sha256": "cdf4821c2218c70d6b2d79e46577fe133eac4b9023d8dfa9e81f36e1871f8a60" },
     { "path": "Data/World10.pack", "size": 5997790, "sha256": "776689c0e5be4ce53f8cb591a066cfdc9d145a61c5492dbbc325c8749b65af4b" },
     { "path": "Data/World100.pack", "size": 60010472, "sha256": "c5e38f4a0051575659ef28654b3d68026eaddb6afd06da7c3c3d7e500bbf76af" },
@@ -156,7 +156,7 @@
     { "path": "DecodedAssets.flag", "size": 144, "sha256": "6f170befb5e741c96cf88ccb2ec262097edf41f91dd592cee0b48c62bcdcb0a2" },
     { "path": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
     { "path": "GraphicsFX.ini", "size": 12006, "sha256": "3891117dcb54bcd15f3c881bd18a9edca11b910f178fd0c530f113938eea929a" },
-    { "path": "Main.exe", "size": 14517248, "sha256": "473e9da500f18dcc56521ad132839134aab6a41c7e7e2b4621d33bc5be8a92f6" },
+    { "path": "Main.exe", "size": 14519808, "sha256": "b215427257e5e5639367bed437010560f1acc20fb3d75631d409ba3ec6e4138e" },
     { "path": "MuVoice.exe", "size": 1005056, "sha256": "b6886be3abb457ddfd0fff4a0becd7e9435ef4e62efa5be476478a5840500a41" },
     { "path": "Noesis.dll", "size": 5229576, "sha256": "35f6ac51d85ba6f8d7f69cff02799c9d21889a1924b38e16af1b4875ce02de0c" },
     { "path": "OpenGL3245.dll", "size": 173568, "sha256": "973f1be23398f03f61b2072a340e737395c3ebd1a80d8106332c6c4d6cb61d31" },
