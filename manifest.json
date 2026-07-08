@@ -1,5 +1,5 @@
 {
-  "version": 1783551378,
+  "version": 1783551902,
   "launcher": { "version": 1, "file": "FlyLauncher.exe", "size": 915456, "sha256": "d5a2de2602dfab8321edb755e6e15fc72df14006464b4763622d8904022e3dfc" },
   "files": [
     { "path": "Config.ini", "size": 499, "sha256": "f096c49f8903b1e6ca27d4b0bad67241251b2d216a482de07ba54669acd27cad" },
@@ -236,7 +236,6 @@
     { "path": "QeffectsGL.ini", "size": 364, "sha256": "8a359c9a92cfaa49582565f056416185d70d55defc457bf486ecb7532df1c597" },
     { "path": "README.md", "size": 1059, "sha256": "01f0e8f6784eb0749647bec74c40e867a89c5df2b2f357da692595f0b51bf092" },
     { "path": "UITune.txt", "size": 60, "sha256": "d9d951f42a6615c812e308ef314dccf1964fd22217e2c643e1f83bab85b505dc" },
-    { "path": "flymu_session.json", "size": 404, "sha256": "4cee2445411b6e08015af01f7e9dbcc3a7524e26df8371d748476870a27d5340" },
     { "path": "glew32.dll", "size": 514048, "sha256": "e9bbfb1706b9e273ca2dcc191907d67b4ddb1909d8469ab8eb47ee3b8fb400ba" },
     { "path": "lua51.dll", "size": 538112, "sha256": "9332adb2056a7e998318f1729464f192fba2f9f3546baae50625121bcda1352a" },
     { "path": "mcaudio.dll", "size": 2816512, "sha256": "e5a3375d60408386bf8c14f37d0a594a05c08070207ce22c713e2650d9fc5220" },
