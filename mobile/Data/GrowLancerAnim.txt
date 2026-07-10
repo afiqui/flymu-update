@@ -1,12 +1,15 @@
 # ============================================================================
 # Grow Lancer - mapa de ANIMACAO por skill (player.bmd)
 # ----------------------------------------------------------------------------
-# As animacoes da Grow Lancer da Season 17 foram transplantadas para o
-# player.bmd nos indices de action 284..335 (mesmo esqueleto de 60 ossos).
+# As animacoes REAIS da Grow Lancer vieram do flyplayer.bmd e foram appendadas
+# no player.bmd nos indices 336..506 (mesmo esqueleto de 60 ossos, byte-exato).
+# As 0..335 continuam IDENTICAS ao que eram (o bloco antigo 284..335 era so
+# duplicata de 197..245 e continua la, inofensivo). Mapa completo
+# flyIdx->playerIdx em: Data/Player/flyplayer_action_map.txt
 #
 # Formato:   <skillId>  <actionIndex>
 #   skillId     = id da skill GL (271..279)
-#   actionIndex = indice da action no player.bmd (use 284..335 = anims da S17;
+#   actionIndex = indice da action no player.bmd (336..506 = anims REAIS da GL;
 #                 ou qualquer action existente 0..283 do 5.2 se preferir)
 #
 # >>> RECARREGA AO VIVO <<< : edite o numero, salve, e re-caste a skill no jogo.
@@ -22,15 +25,29 @@
 # testa; depois 271 -> 285, salva, testa...) ate achar a animacao certa.
 # ============================================================================
 
-271 61   # Spin Step     (AoE)
-272 285  # Circle Shield (buff)
-273 296  # Obsidian      (buff)
-274 61   # Magic Pin     (alvo)
-275 288  # Clash         (alvo)
-276 63   # Harsh Strike  (alvo)
-277 61   # Shining Peak  (AoE)
-278 291  # Wrath         (buff)
-279 65   # Breche        (AoE)
+# >>> DEFAULTS = anims REAIS da GL (flyplayer.bmd, a pe/sem montaria) <<<
+# Sao PALPITES sequenciais: teste e troque pelo indice que ficar melhor por skill
+# (veja o bloco "CANDIDATAS GL" abaixo). Recarga ao vivo.
+271 388  # Spin Step     (AoE)    <- fly143
+272 389  # Circle Shield (buff)   <- fly144
+273 393  # Obsidian      (buff)   <- fly145
+274 390  # Magic Pin     (alvo)   <- fly146
+275 396  # Clash         (alvo)   <- fly147
+276 387  # Harsh Strike  (alvo)   <- fly148
+277 391  # Shining Peak  (AoE)    <- fly149
+278 394  # Wrath         (buff)   <- fly150
+279 392  # Breche        (AoE)    <- fly151
+
+# ============================================================================
+# CANDIDATAS GL (do flyplayer.bmd) — indicadas por voce. playerIdx <- flyIdx
+# A PE / SEM MONTARIA:
+#   365<-74   387<-143  388<-144  389<-145  390<-146  391<-147
+#   392<-148  393<-149  394<-150  395<-151  396<-152
+# COM MONTARIA:
+#   461<-231  462<-232  463<-233  464<-234  465<-235  466<-236
+#   474<-244  488<-258  489<-259  490<-260
+# (todas as 171 novas: 336..506 — lista completa em flyplayer_action_map.txt)
+# ============================================================================
 
 # ============================================================================
 # REFERENCIA: animacoes NATIVAS do player.bmd (0..283) uteis para teste
@@ -63,4 +80,20 @@
 #   137  ATTACK_RUSH                 (Rush / investida)
 #   138  ATTACK_DEATH_CANNON         (Magic Sword flash)
 #    72  SKILL_HELL_BEGIN       73  SKILL_HELL_START
+# ============================================================================
+# CANDIDATAS DE ESTOCADA/INVESTIDA — DISTINTAS por fingerprint (medido do BMD;
+# nomes do enum sao deslocados, confie no teste in-game). "avanco" = quanto o
+# root anda; "braco" = amplitude do braco direito.
+#    82  estocada rapida forte c/ avanco (6 keys, braco 361, avanco 57)
+#    87  estocada media c/ avanco       (11 keys, braco 359, avanco 61)
+#   103/104  golpe duplo c/ avanco      (13 keys, braco 438, avanco 64) <- teste p/ "3 estocadas"
+#   153  sequencia longa parada-avanca  (13 keys, braco 442, avanco 46)
+#   177  estocada MUITO rapida          (5 keys,  braco 353, avanco 61)
+#   255  golpe pesado c/ avanco         (13 keys, braco 444, avanco 52)
+#   263/264  investida forte            (7 keys,  braco 427, avanco 64)
+#   141  carga longa (14 keys, avanco 101)    152  avanco 94 c/ giro
+#   231  carga giratoria longa (30 keys, avanco 113)
+# DUPLICATAS (nao gaste teste): todo o bloco 284-335 repete 197-245:
+#   286=197 296=207 298=209 304=215 305=216 307=218 310=221 311=222
+#   314=225 315=226 330=241 331=242 334=245 ... e 71=61, 97=171, 257=258
 # ============================================================================
